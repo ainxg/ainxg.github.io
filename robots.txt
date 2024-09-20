@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ainxg.github.io/lgu/sitemap.lgu.gz
